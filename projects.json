@@ -1,0 +1,15 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Project 1",
+            "student": {
+                "name": "John Doe",
+                "bio": "A passionate student interested in...",
+                "pitchDeckLink": "https://example.com/pitchdeck1.pdf",
+                "postersLink": "https://example.com/posters1.pdf",
+                "appDownloadLink": "https://example.com/app1.zip"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+/* Add your custom styles here */
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.modal-body {
+  font-size: 16px;
+}
+
+.modal-footer {
+  border-top: 1px solid #dee2e6;
+}
+
+.modal-footer button {
+  font-size: 16px;
+}
+
+/* Add any additional styles as needed */
